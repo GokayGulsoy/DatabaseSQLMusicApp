@@ -6,7 +6,7 @@ type the following command from terminal or command line `git clone https://gith
 
 NOTE: You should have already installed `git` in your computer to successfully execute the above command
 
-# Some Important Notes
+## Some Important Notes
 
 - I have developed the desktop application with Visual Studio 2022 Community Edition as Windows Forms application.
 - You need to give your own password for connecting to MySQL database in place of `******` in the code snippet
@@ -19,4 +19,6 @@ ImageURL, and Description information then clicking the add button.
 - You can select specific track by clicking specific track in Tracks grid and click `Delete Selected Track` button to delete it.
 - Image of selected album will be displayed on the right side of the albums grid.
 
-  ![Application UI](https://github.com/GokayGulsoy/DatabaseSQLMusicApp/blob/master/App_UI.png)
+## Application UI 
+
+![Application UI](https://github.com/GokayGulsoy/DatabaseSQLMusicApp/blob/master/App_UI.png)
